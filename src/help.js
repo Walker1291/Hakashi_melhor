@@ -14,8 +14,7 @@ Comando: '${prefix}toimg'
 Função: converter adesivos em imagem
 Como Usar: responder a sticker 
 🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕🍕
-Comando:'${prefix}criador'
-Função: Mostra as informações do criador do bot
+       ...WERBERT...
 🏖🏖🏖🏖🏖🏖🏖🏖🏖🏖🏖🏖🏖🏖
 🃏 Comandos de Memes 🎯  
 🏖🏖🏖🏖🏖🏖🏖🏖🏖🏖🏖🏖🏖🏖
